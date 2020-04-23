@@ -43,6 +43,15 @@
                        :content content))
 
 
+                                        ;misc definitions
+
+
+(defvar address-string)
+(defvar amount-string)
+(defvar json)
+(defvar input)
+
+
                                         ;wallet functions
 
 
